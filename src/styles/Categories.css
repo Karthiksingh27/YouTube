@@ -1,0 +1,26 @@
+.categories ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+.categories li{
+    background-color: rgb(236,236,236);
+    padding: 7px 10px;
+    border-radius: 8px;
+
+}
+.categories a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+.vedioDetailes{
+     width: 10px;
+}
+.vedio{
+    width: 25%;
+    margin: 10px 
+}
+.vedioData{
+    margin:10px ;
+}
